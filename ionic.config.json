@@ -1,0 +1,7 @@
+{
+  "name": "mila-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
